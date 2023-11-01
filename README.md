@@ -1,19 +1,11 @@
-# booktickets
+# Airplane Ticket Booking
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Designed a Flutter-based airplane ticket booking app UI
+* Consists of four distinct screens
+* Homepage showcases upcoming flights, hotel recommendations
+* Second page facilitates searches for flights, hotels, and discounts with arrival and departure options
+* The third page displays detailed ticket information for users
+* The fourth page is dedicated to user profiles and their statistics..
 
 ![bt1](https://github.com/patil-paresh/airplane-ticket-booking-flutter/assets/130557013/d4980246-86c2-4f7c-b3d4-06d710a81e7e)
 ![bt2](https://github.com/patil-paresh/airplane-ticket-booking-flutter/assets/130557013/1d9eab3c-dcec-4ef0-b0ea-b3706a2c9acc)
